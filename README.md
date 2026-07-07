@@ -23,4 +23,4 @@ Il software è completo e ben documentato in ogni sua parte grazie anche all'uti
 *   **Altre librerie:** JSON
 
 ---
-*Progetto realizzato da **Beatrice Taffetani**
+*Progetto realizzato da **[Beatrice Taffetani](https://github.com/BTaffetani/beatrice-taffetani/blob/main/README.md)***
